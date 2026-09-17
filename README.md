@@ -10,6 +10,7 @@
 **Clinical / Industrial Supervisor:** Dr. Manor Shpriz  
 **Clinical Site:** Assuta Ramat HaHayal Medical Center
 
+<img width="865" height="483" alt="image" src="https://github.com/user-attachments/assets/a11d16da-9806-4462-beb1-a42ff0936c1b" />
 
 
 ## Overview
