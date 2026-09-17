@@ -10,7 +10,7 @@
 **Clinical / Industrial Supervisor:** Dr. Manor Shpriz  
 **Clinical Site:** Assuta Ramat HaHayal Medical Center
 
----
+
 
 ## Overview
 
@@ -290,17 +290,7 @@ postsurgical-infection-prediction/
 
 ---
 
-## Reproducibility
 
-Install the Python dependencies with:
-
-```bash
-pip install -r requirements.txt
-```
-
-The repository documents the analytical pipeline, but the original hospital dataset is intentionally excluded. Therefore, the notebooks cannot be reproduced end-to-end outside the authorised clinical environment without an appropriately structured dataset.
-
----
 
 ## Data Governance and Privacy
 
@@ -352,31 +342,3 @@ The work was developed in collaboration with **Assuta Ramat HaHayal Medical Cent
 
 For the complete academic methodology, literature review, results, discussion and limitations, see the final project report in the `docs/` directory.
 
----
-
-## Authors
-
-**Hodaya Yasayev Klenter**  
-**Tal Meillet**
-
-B.Sc. Digital Medical Technologies  
-Holon Institute of Technology (HIT)
-
----
-
-## Acknowledgements
-
-We gratefully acknowledge:
-
-- **Dr. Manor Shpriz** — Clinical Supervisor
-- **Dr. Ayelet Butman** — Academic Supervisor
-- **Dr. Revital Marbel** — Academic Supervisor
-- the Infection Prevention and Control team at Assuta Ramat HaHayal Medical Center; and
-- the hospital information-systems and infrastructure teams who supported the secure analytical environment.
-
----
-
-## Disclaimer
-
-This repository is provided for **academic and research purposes only**.  
-The reported results were obtained on a retrospective single-centre dataset and should not be interpreted as evidence of clinical readiness or generalisability to other healthcare settings.
