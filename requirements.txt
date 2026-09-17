@@ -1,0 +1,35 @@
+# Core data science
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+imbalanced-learn
+xgboost
+catboost
+ctgan
+
+# Model interpretation / statistics
+shap
+statsmodels
+
+# NLP / Hebrew text support
+python-bidi
+stopwordsiso
+
+# File I/O
+openpyxl
+
+# Local LLM / HTTP inference
+requests
+
+# Notebook environment
+ipython
+ipykernel
+jupyterlab
+notebook
